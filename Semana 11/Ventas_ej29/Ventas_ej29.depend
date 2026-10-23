@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1792758288 source:c:\users\daniel kloster\onedrive - frgp.utn.edu.ar\2026\pr1\viernes c2\23-10\ventas_ej29\main.cpp
+	<iostream>
+	"funciones.h"
+
+1792757880 c:\users\daniel kloster\onedrive - frgp.utn.edu.ar\2026\pr1\viernes c2\23-10\ventas_ej29\funciones.h
+
+1792758412 source:c:\users\daniel kloster\onedrive - frgp.utn.edu.ar\2026\pr1\viernes c2\23-10\ventas_ej29\funciones.cpp
+	<iostream>
+	"funciones.h"
+
